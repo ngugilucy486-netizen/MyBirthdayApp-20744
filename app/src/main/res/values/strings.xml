@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBirthdayApp</string>
+    <string name="birthday_countdown">Birthday Countdown 🎂</string>
+    <string name="birthday_desc">Find out how many days until your big day!</string>
+    <string name="your_name">Your Name</string>
+    <string name="birth_date_hint">Birth Date (YYYYMMDD)</string>
+    <string name="calculate_days">Calculate Days</string>
+    <string name="hello_msg">Hello %1$s!! \nYour birthday is in %2$d days! 🎉</string>
+</resources>
